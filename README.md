@@ -248,4 +248,10 @@
     </script></div>
     <script src="Molteng321_files/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
+
+     <!-- Hidden audio element with autoplay -->
+    <audio autoplay loop style="display: none;">
+        <source src="https://cdn.discordapp.com/attachments/1280294550841331845/1291870243374895186/-snap_mg.vc__ezmp3.cc_.mp3?ex=6701ab6b&is=670059eb&hm=2aa32f0e53ed132e5ceba27be241685125c9bccd071f259fbbe3f6ae0c9c727c&" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
   
